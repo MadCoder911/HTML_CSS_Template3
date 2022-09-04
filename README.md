@@ -1,2 +1,2 @@
 # HTML_CSS_Template3
-HTML CSS Practise
+Practising HTML and CSS by copying templates designed using Figma and Adobe XD
